@@ -1,0 +1,19 @@
+{
+  "name": "My_Awesome_Project",
+  "version": "0.0.1",
+  "description": "Set Up for Grunt and Node JS(?)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwake1/Grunt-Setup.git"
+  },
+  "author": "Gerald A. Wakefield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gwake1/Grunt-Setup/issues"
+  },
+  "homepage": "https://github.com/gwake1/Grunt-Setup"
+}
