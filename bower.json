@@ -13,5 +13,14 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.1",
+    "lodash": "~2.4.1",
+    "bootstrap": "~3.3.1",
+    "mocha": "~2.0.1",
+    "chai": "~1.10.0",
+    "normalize.css": "~3.0.2",
+    "normalize.scss": "~3.0.2+normalize.3.0.2"
+  }
 }

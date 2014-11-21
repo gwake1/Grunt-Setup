@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gwake1/Grunt-Setup/issues"
   },
-  "homepage": "https://github.com/gwake1/Grunt-Setup"
+  "homepage": "https://github.com/gwake1/Grunt-Setup",
+  "devDependencies": {
+    "bower": "^1.3.12"
+  }
 }
